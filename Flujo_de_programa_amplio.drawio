@@ -1,0 +1,25 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.4">
+  <diagram name="Página-1" id="7HkvbD5W3k9sneyn8Oab">
+    <mxGraphModel dx="872" dy="447" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="46PtFFXDfOnp_WXXtQH9-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="46PtFFXDfOnp_WXXtQH9-1" target="46PtFFXDfOnp_WXXtQH9-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="46PtFFXDfOnp_WXXtQH9-1" value="Inicio" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="364" y="20" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="46PtFFXDfOnp_WXXtQH9-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="46PtFFXDfOnp_WXXtQH9-2" target="46PtFFXDfOnp_WXXtQH9-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="46PtFFXDfOnp_WXXtQH9-2" value="El programa pide información" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="354" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="46PtFFXDfOnp_WXXtQH9-4" value="-Ventas en efectivo&lt;div&gt;-Ventas en tarjeta&lt;/div&gt;&lt;div&gt;-Ventas en trasnferencia&lt;/div&gt;&lt;div&gt;-Cancelaciones&lt;/div&gt;&lt;div&gt;-Coca&lt;/div&gt;&lt;div&gt;-Actas&lt;/div&gt;&lt;div&gt;-Recargas&lt;/div&gt;&lt;div&gt;-USB&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="530" y="70" width="290" height="150" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
